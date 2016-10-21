@@ -1,0 +1,11 @@
+<?php if(!defined('BASEPATH')) exit('No direct script access allowed'); 
+define('SITE_WEBNAME','Neo group');
+define('SITE_HTML','2');
+define('SITE_SUFFIX','');
+define('F','-');
+define('SITE_CACHE','0');
+define('SITE_CACHETIME','6000');
+define('SITE_LOGO','/data/upfile/201309/201309291425463101.jpg');
+define('SEO_TITLE','120821 班');
+define('SEO_KEY','amc');
+define('SEO_DESC','');
